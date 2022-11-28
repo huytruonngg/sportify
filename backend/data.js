@@ -19,7 +19,7 @@ const data = {
   ],
   events: [
     {
-      _id: '1',
+      // _id: '1',
       name: 'Kansas Jayhawks Mens Basketball',
       slug: 'kansas-jayhawks-mens-basketball',
       category: 'Basketball',
@@ -30,7 +30,7 @@ const data = {
       description: "Don't miss the match. Tickets on sale now.",
     },
     {
-      _id: '2',
+      // _id: '2',
       name: 'Kansas Jayhawks Football vs Texas',
       slug: 'kansas-jayhawks-football-vs-texas',
       category: 'Football',
@@ -41,7 +41,7 @@ const data = {
       description: "Don't miss the match. Tickets on sale now.",
     },
     {
-      _id: '3',
+      // _id: '3',
       name: 'Weekly soccer match',
       slug: 'weekly-soccer-match',
       category: 'Soccer',
